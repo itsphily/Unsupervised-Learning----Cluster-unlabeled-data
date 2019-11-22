@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 ## 
 # This function prompts the user to print the result of the assessment
 ##
-def assessment_print( description, print_data):
+def assessment_print(description, print_data):
     yes_list = ['yes', 'y']
     answer_list=['yes', 'y','no', 'n']
     # Gets a yes or no answer
@@ -18,3 +18,4 @@ def assessment_print( description, print_data):
         print('*******{}*******'.format(description))
         print(print_data)            
         print ('*'*30)
+

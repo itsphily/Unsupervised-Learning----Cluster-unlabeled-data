@@ -1,0 +1,6 @@
+Code Structure
+# To do to improve code
+# Better to decouple the interface from the logic
+
+Assessment
+# Need to print a conclusion of the assessment

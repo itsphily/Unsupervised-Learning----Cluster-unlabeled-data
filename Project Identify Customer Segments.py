@@ -19,4 +19,4 @@ assessment_print('Dataframe info', azdias.info())
 assessment_print('General description of the dataframe', azdias.describe())
 assessment_print('Null values', pd.DataFrame(azdias.isnull().sum()))
 
-# Need to print a conclusion of the assessment
+
